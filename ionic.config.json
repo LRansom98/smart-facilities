@@ -1,0 +1,9 @@
+{
+  "name": "smart-facilities",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "f0b08ac4"
+}
